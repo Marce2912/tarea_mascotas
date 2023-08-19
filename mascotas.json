@@ -1,0 +1,31 @@
+
+[
+    {
+      "nombre": "Budin",
+      "animal": "Perro",
+      "edad": 16,
+      "perdido": false
+    },
+
+    {
+      "nombre": "Michu",
+      "animal": "Gato",
+      "edad": 9,
+      "perdido": true
+    },
+
+    {
+      "nombre": "Princesa",
+      "animal": "Perro",
+      "edad": 12,
+      "perdido":true
+    },
+
+    {
+        "nombre": "Cloclo",
+        "animal": "Sapo",
+        "edad": 5,
+        "perdido":false
+      }
+  ]
+  
