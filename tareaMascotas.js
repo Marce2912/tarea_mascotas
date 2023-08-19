@@ -52,6 +52,7 @@ app.get('/mascotas/:nombre', async(req, res) => {
 
 
 // -Crear un endpoint POST /mascotas que agregue una mascota al json
+//codigo que hizo el profe en clase 
 
 app.post('/mascotas', async (req, res) => {
 
